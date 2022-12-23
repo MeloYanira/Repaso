@@ -12,7 +12,7 @@ package repertorio.proyectorepaso;
 public class Proyectorepaso {
 
     public static void main(String[] args) {
-        System.out.println("Primera linea");
+        System.out.println("1 linea");
         System.out.println("Segunda linea");
     }
 }
